@@ -20,7 +20,7 @@ class Data:
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Bots ♥", url="https://t.me/kryshupdate")],
+        [InlineKeyboardButton("♥ More Bots ♥", url="https://t.me/iscamz")],
     ]
 
     START = """
@@ -56,7 +56,7 @@ By @kryshupdate
 
 Telegram Bot to generate Pyrogram and Telethon string sessions.
 
-Made with ❤️ by @kryshupdate
+Made with ❤️ by @crysh8
 
 Framework : Pyrogram
 Language  : Python
